@@ -44,7 +44,7 @@ Slice if free to use and anyone can sign up, however it does come with some draw
 Reporting bugs to support
 -------------------
 You can submit a bug report on our online panel. Please taking the following into account:
-- Our team is very small and run this project in our free time.
+- Our team is very small and we run this project in our free time.
 - Due to our small support team, please narrow down your issue as much as possible.
     - Saying things like "it doesn't work" and "i have an error" don't help us.
 - Specify the type of issue the bug is and how to reproduce it.
