@@ -1,7 +1,7 @@
 # slice.to - The best solution for authentication!
 The official API wrappers of Slice Authentication services.
 
-[slice.to](https://slice.to/) allows you to easily integrate secure and simple verification services into your projects without having to worry about the technical things.
+[slice.to](https://slice.to/) allows you to easily integrate secure and simple verification services into your projects without having to worry about the technical things. Our API allows you to create your own wrappers of our authentication in any language you want, the full documentation is on our website.
 
 Usage:
 ------
