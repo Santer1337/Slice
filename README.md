@@ -19,7 +19,10 @@ Features:
 Online Panel:
 ------
 
+Below are pictures of our online panel, used for managing your Applications:
 ![Dashboard](https://cdn.discordapp.com/attachments/696138250053746778/702013396756856922/unknown.png)
+![Resources](https://cdn.discordapp.com/attachments/696138250053746778/702013868074991626/unknown.png)
+![Manage](https://cdn.discordapp.com/attachments/696138250053746778/702014278244237312/unknown.png)
 
 FAQ
 ===
