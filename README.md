@@ -14,39 +14,7 @@ Features:
 - IP Locking users
 - Application Freemode (All logins will return true)
 - File integrity checking (.NET and Native)
-- Spam protection
-- Many more coming!
-
--   **N00b users:**
-    Just drag and drop the protected executable in `OldRod` and observe how the majestic Magikarp fixes your code all by itself. Pretty nice huh?
-
--   **Advanced users:**
-    Old Rod has a lot of features! Type the following command in a terminal to get an overview of all available options and flags:
-    ```
-    OldRod.exe --help
-    ```
-
-    Some of the niceties include:
-    - `--output-directory`, which sets the output directory (who would have thought!?).
-    - `--koi-stream-name`, `--koi-stream-data`, `--entry-type` and `--constants-type`, which help the magestic Magikarp finding the data it needs.
-    - `--config` for providing a custom constants mapping, see [example-config.json](doc/example-config.json) for an example configuration file.
-    - `--no-pause` if you don't like pressing a key to continue at the end of it all.
-
-Dependencies
-------------
-The devirtualiser is powered by the following projects:
-- [AsmResolver](https://github.com/Washi1337/AsmResolver): .NET inspection library [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-- [Rivers](https://github.com/Washi1337/Rivers): Graph analysis library [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- [Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json): JSON file parser.  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-These are submodules or nuget packages. Be sure to clone/restore all of them when building the project.
-
-Binaries
----------
-Get the latest build from the [AppVeyor build server](https://ci.appveyor.com/project/Washi1337/oldrod/build/artifacts). 
-
-Alternatively, you can build the project yourself using MSBuild or an IDE that works with MSBuild (such as Visual Studio and JetBrains Rider).
-
+- Spam & Attack protection
 
 FAQ
 ===
