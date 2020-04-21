@@ -43,11 +43,10 @@ Slice if free to use and anyone can sign up, however it does come with some draw
 
 Reporting bugs to support
 -------------------
-If the above does not work, please consider going to the [issue tracker](https://github.com/Washi1337/OldRod/issues) and file a _detailed_ bug report, taking the following into account:
-- Be aware I do this project in my little free time.
-- Because of this, when filing a report it is important to narrow down the issue as much as possible to your ability.
-    - Issues simply stating "it doesn't work" will be ignored.
-- Respect original authors of copyrighted software. **Don't upload copyrighted executables** protected by KoiVM. These issues will be **deleted** immediately.
-- Look at the troubleshooting tips in the readme.
+You can submit a bug report on our online panel. Please taking the following into account:
+- Our team is very small and run this project in our free time.
+- Due to our small support team, please narrow down your issue as much as possible.
+    - Saying things like "it doesn't work" and "i have an error" don't help us.
+- Specify the type of issue the bug is and how to reproduce it.
 
-Also, be aware this is a **work in progress**. Sometimes the Magikarp has a tendency to randomly splash around and reach havoc in the file for unknown reasons. Little can be done here other than waiting for the beast to finally mature.
+Be aware this is a **BETA**. Sometimes you may encounter errors and won't know how to fix them, please be patient, we most likely are aware of them and are trying to fix them.
