@@ -4,9 +4,9 @@ using SliceAPI;
 
 namespace Slice.NET_Form_Example
 {
-    public partial class LoginSucces : Form
+    public partial class LoginSuccess : Form
     {
-        public LoginSucces()
+        public LoginSuccess()
         {
             InitializeComponent();
         }
