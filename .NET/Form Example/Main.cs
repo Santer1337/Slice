@@ -37,8 +37,8 @@ namespace Slice.NET_Form_Example
 
             label5.Text += Identification.ComputerUserName; // Essentially Environment.UserName
             label6.Text += Identification.ComputerName; // Essentially Environment.MachineName
-            label7.Text += Identification.IPAddress; // Uses our API to grab ipv4 address
-            label8.Text += Identification.HardwareID; // Combines many PC components into one string
+            label7.Text += Identification.HardwareID; // Uses our API to grab ipv4 address
+            label8.Text += Identification.IPAddress; // Combines many PC components into one string
         }
 
         // Log Data
