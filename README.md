@@ -3,8 +3,19 @@ The official API wrappers of Slice Authentication services.
 
 [slice.to](https://slice.to/) allows you to easily integrate secure and simple verification services into your projects without having to worry about the technical things. Our API allows you to create your own wrappers of our authentication in any language you want, the full documentation is on our website.
 
-Usage:
+Features:
 ------
+
+- Power End-to-end encryption (.NET and Native)
+- Server-Sided variables
+- Server-sided encrypted files *(Coming soon!)*
+- Full modification of your user's info
+- Custom token durations
+- IP Locking users
+- Application Freemode (All logins will return true)
+- File integrity checking (.NET and Native)
+- Spam protection
+- Many more coming!
 
 -   **N00b users:**
     Just drag and drop the protected executable in `OldRod` and observe how the majestic Magikarp fixes your code all by itself. Pretty nice huh?
