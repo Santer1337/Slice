@@ -16,6 +16,11 @@ Features:
 - File integrity checking (.NET and Native)
 - Spam & Attack protection
 
+Online Panel:
+------
+
+![Dashboard](https://cdn.discordapp.com/attachments/696138250053746778/702013396756856922/unknown.png)
+
 FAQ
 ===
 
