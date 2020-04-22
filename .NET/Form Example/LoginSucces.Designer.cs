@@ -1,6 +1,6 @@
 ﻿namespace Slice.NET_Form_Example
 {
-    partial class LoginSucces
+    partial class LoginSuccess
     {
         /// <summary>
         /// Required designer variable.
