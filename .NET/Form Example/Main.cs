@@ -61,7 +61,7 @@ namespace Slice.NET_Form_Example
                 // NOTE: The default login function has message boxes for responses from our servers, you can remove those to make your own!
                 if (loginResult) // Login success
                 {
-                    LoginSucces successForm = new LoginSucces(); // We can now redirect users to the main page of our app after a login success
+                    LoginSuccess successForm = new LoginSuccess(); // We can now redirect users to the main page of our app after a login success
                     successForm.ShowDialog();
                 }
                 else // Login fail
